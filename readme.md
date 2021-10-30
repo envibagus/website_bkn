@@ -1,1 +1,2 @@
-# how to read this markdown file
+# DOCUMENTATION FOR THIS SITE
+##  step 1. install IDE or Text Editor
