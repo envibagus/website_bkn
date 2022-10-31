@@ -1,4 +1,2 @@
-# website_bkn
-well well well
-just in case
-let's try another addition
+# DOCUMENTATION FOR THIS SITE
+##  step 1. install IDE or Text Editor
